@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftHeroesNavigationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BasicNavAppView()
         }
     }
 }
